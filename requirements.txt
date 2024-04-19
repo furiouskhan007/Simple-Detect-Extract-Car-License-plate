@@ -1,0 +1,12 @@
+deskew==1.5.1
+imageio==2.34.0
+lazy_loader==0.4
+networkx==3.3
+numpy==1.26.4
+opencv-python==4.9.0.80
+packaging==24.0
+pillow==10.3.0
+pytesseract==0.3.10
+scikit-image==0.22.0
+scipy==1.13.0
+tifffile==2024.2.12

@@ -1,0 +1,8 @@
+install tesseract-ocr-w64-setup-5.3.3.20231005.exe
+Correct the path into python files pytesseract.pytesseract.tesseract_cmd=r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+The model weights of trained YoloV3 can be downloaded from https://drive.google.com/uc?export=download&id=1YXEKbYNLzfYpMcIkZ3h3UbeqfJ8vn7H3
+install the dependencies and enjoy
+1. OpenCV
+2. PyTesseract
+3. Flask
+4. Deskew
